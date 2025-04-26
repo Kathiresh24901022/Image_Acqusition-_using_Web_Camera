@@ -33,8 +33,8 @@ Divide the frame into halves and assign the smaller frame and Rotate the frame u
 
 ## Program:
 ``` Python
-### Developed By:MahaJanani.R
-### Register No:212224230147
+### Developed By:Kathiresh.M
+### Register No:24901022
 
 ## i) Write the frame as JPG file
 import cv2
